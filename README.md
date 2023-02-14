@@ -1,0 +1,2 @@
+# Journal Scraper
+Journal Scraper is a collection of tools and templates for analyzing journal entries written in markdown. The main journal scraper program parses through entries and collects data so they can be analyzed and searched through more effectively. In particular, songs included in journal entries can be automatically added to Spotify playlist using the Spotify API.
